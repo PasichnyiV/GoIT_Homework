@@ -1,0 +1,121 @@
+/* Задание 1 */
+
+/*
+body {
+    background: blue;
+}
+*/
+
+/* Задание 2 */
+.box_1 {
+    background-color: #F00;
+    color: #FFF;
+    width: 120px;
+}
+
+.box_2 {
+    background-color: #00F;
+    margin: 0 0 10px;
+    padding: 0 0 30px;
+    width: 300px;
+}
+
+hr {
+    color: #008B;
+    margin: 0 0 10px;
+    width: 350px;
+}
+
+.box_3 {
+    background-color: #FDF800;
+    margin: 0 0 10px;
+    padding: 0 0 30px;
+    width: 300px;
+}
+
+/* Задание 3 */
+.one {
+    background-color: #F00;
+    margin: 0 0 10px;
+    padding: 20px;
+    width: 100px;
+}
+
+.two {
+    background-color: #FFA300;
+    margin: 0 0 10px;
+    padding: 20px;
+    width: 150px;
+}
+
+.three {
+    background-color: #4600FF;
+    margin: 0 0 10px;
+    padding: 20px;
+    width: 200px;
+}
+
+/* Задание 4 */
+.box_4 {
+    background-color: #FF733A;
+    font-size: 36px;
+    padding: 10px 0 10px 25px;
+    width: 300px;
+}
+
+/* Задание 5 */
+.box_5 {
+    background-color: #D6D7BE;
+    margin: 0 0 10px;
+    padding: 0 0 20px 5px;
+    width: 555px;
+}
+
+.box_5 h1 {
+    color: #532601;
+}
+
+.box_5 h3 {
+    color: #875327;
+}
+
+.box_5 a {
+    color: #008000;
+}
+
+/* Задание 6-7 */
+.box_6,
+.box_7 {
+    border: 2px dashed #000;
+    margin: 0 0 10px;
+    padding: 0 0 20px 5px;
+    width: 550px;
+}
+
+span {
+    font-style: italic;
+}
+
+.box_6 code,
+.box_7 code {
+    font-size: 24px;
+}
+
+.box_6 sup,
+.box_6 sub {
+    font-style: italic;
+}
+
+.box_7 sub {
+    color: #00F;
+    font-style: normal;
+}
+
+.box_7 sup {
+    color: #F00;
+    font-style: normal;
+}
+
+.box_7 code {
+    font-style: italic;
+}
